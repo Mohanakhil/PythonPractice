@@ -6,6 +6,5 @@ class LengthOfGivenString:
             count += 1
         return count
 
-
 s = input("enter any string\n")
 print(LengthOfGivenString.calculate_length(s))
